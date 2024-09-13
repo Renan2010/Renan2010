@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Renan Lucas! :)
 
-<!--
-**Renan2010/Renan2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I’m a passionate developer always looking for new challenges. Here you'll find some of my latest projects and contributions.
 
-Here are some ideas to get you started:
+## 🚀 Recent Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Unnoficial FNF port for Linux](https://github.com/Renan2010/Funkin-Linux) - An port for Linux OS.
+- [LUP](https://github.com/Renan2010/LUP) - Univesal port for linux like BSDs made by me.
+- [RLSnake](https://github.com/Renan2010/RLSnake) - A Simple Snake Game in C++ with SFML.
+
+## 📈 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=renanlucas&show_icons=true&hide_title=true&count_private=true)
+
+## 📫 Contact
+- Email: [renanlucad@gmail.com](mailto:renanlucas@example.com)
+## 💡 Skills
+
+- **Programming Languages:** Python, C++, Rust, lua. etc
+- **Frameworks:** React, Django
+- **Tools:** Docker, Git
+
+---
+
+Thank you for visiting my profile! If you’re interested in collaborating or have any questions, feel free to reach out.
