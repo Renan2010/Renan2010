@@ -4,17 +4,17 @@ Welcome to my GitHub profile. I’m a passionate developer always looking for ne
 
 ## 🚀 Recent Projects
 
-- [Unnoficial FNF port for Linux](https://github.com/Renan2010/Funkin-Linux) - An port for Linux OS.
+- [Funkin-Linux](https://github.com/Renan2010/Funkin-Linux) - An port for Linux OS.
 - [LUP](https://github.com/Renan2010/LUP) - Univesal port for linux like BSDs made by me.
 - [RLSnake](https://github.com/Renan2010/RLSnake) - A Simple Snake Game in C++ with SFML.
 
-## 📈 Stats
+## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=renanlucas&show_icons=true&hide_title=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Renan2010&show_icons=true&hide_title=true&count_private=true)
 
-## 📫 Contact
+## Contact
 - Email: [renanlucad@gmail.com](mailto:renanlucas@example.com)
-## 💡 Skills
+## Skills
 
 - **Programming Languages:** Python, C++, Rust, lua. etc
 - **Frameworks:** React, Django
