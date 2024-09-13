@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile. I’m a passionate developer always looking for new challenges. Here you'll find some of my latest projects and contributions.
 
-## 🚀 Recent Projects
+## Recent Projects
 
 - [Funkin-Linux](https://github.com/Renan2010/Funkin-Linux) - An port for Linux OS.
 - [LUP](https://github.com/Renan2010/LUP) - Univesal port for linux like BSDs made by me.
