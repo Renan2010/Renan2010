@@ -4,7 +4,7 @@ Welcome to my GitHub profile. I’m a passionate developer always looking for ne
 
 ## Recent Projects
 
-- [Funkin-Linux](https://github.com/Renan2010/Funkin-Linux) - An port for Linux OS.
+- [Funkin-Linux](https://github.com/Renan2010/Funkin-Linux) - Universal ports for the linux operating system like BSDs.
 - [LUP](https://github.com/Renan2010/LUP) - Univesal port for linux like BSDs made by me.
 - [RLSnake](https://github.com/Renan2010/RLSnake) - A Simple Snake Game in C++ with SFML.
 
