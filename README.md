@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I’m a passionate developer always looking for ne
 ![Stats](https://github-readme-stats.vercel.app/api?username=Renan2010&show_icons=true&hide_title=true&count_private=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan2010&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact
-- Email: [renanlucad@gmail.com](mailto:renanlucas@example.com)
+- Email: [renanlucad@gmail.com](mailto:renanlucad@gmail.com)
 ## Skills
 
 - **Programming Languages:** Python, C++, Rust, lua. etc
