@@ -1,6 +1,6 @@
 # Hello, I'm Renan Lucas! :)
 
-Welcome to my GitHub profile. I’m a passionate developer always looking for new challenges. Here you'll find some of my latest projects and contributions.
+Hello! I'm a Brazilian developer and science enthusiast passionate about creating innovative solutions and exploring new technologies
 
 ## My Projects
 - [RL-ENGINE](https://github.com/Renan2010/RL-ENGINE) **RL-ENGINE** [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) fork with my modifications
