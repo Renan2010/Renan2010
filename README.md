@@ -13,13 +13,15 @@ My main focus is on operating system development, low-level performance, and cre
 
 ### 🛠️ Skills & Tools
 
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=x.org&logoColor=white)
+![ASM](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=x.org&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-3C3C3C?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://img.shields.io/badge/BSD-E52727?style=for-the-badge&logo=freebsd&logoColor=white" alt="BSD Family" title="FreeBSD, OpenBSD, NetBSD" />
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
