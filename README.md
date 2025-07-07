@@ -7,7 +7,7 @@
 
 I'm a Brazilian developer and science enthusiast. As an AuDHD developer, I'm deeply passionate about understanding systems at their core and optimizing everything for maximum performance. This passion led me to create **[RenuxOS](https://github.com/RenuxTeam/RenuxOS)** and found the **[RenuxTeam](https://github.com/RenuxTeam)** organization.
 
-My main focus is on operating system development, low-level performance, and creating tools for the Linux ecosystem.
+I also love to **innovate** and explore everything related to the **tech world**, from low-level systems to high-level tools and futuristic technologies.
 
 ---
 
