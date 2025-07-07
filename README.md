@@ -11,6 +11,11 @@ I also love to **innovate** and explore everything related to the **tech world**
 
 I develop software using **smart pointers**, always aiming for **safe, reliable, and efficient** solutions. 😎
 
+I also love to **fork** projects, fixing bugs, improving performance, and adding cool new features.  
+I believe that improving existing software is just as important as creating something from scratch! 🔧🚀
+
+My main focus is on operating system development, low-level performance, and creating tools for the Linux ecosystem.
+
 ---
 
 ### 🛠️ Skills & Tools
