@@ -1,25 +1,33 @@
 # Hi, I'm Renan Lucas! 👋
 
 <p align="left">
-  <a href="https://github.com/RenuxTeam" target="_blank"><img src="https://img.shields.io/badge/-RenuxTeam-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:renanlucad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/RenuxTeam" target="_blank">
+    <img src="https://img.shields.io/badge/-RenuxTeam-24292e?style=for-the-badge&logo=github&logoColor=white" alt="RenuxTeam" />
+  </a>
+  <a href="mailto:renanlucad@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Renan2010/RenuxOS/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License: MIT" />
+  </a>
 </p>
 
-I'm a Brazilian developer and science enthusiast. As an AuDHD developer, I'm deeply passionate about understanding systems at their core and optimizing everything for maximum performance. This passion led me to create **[RenuxOS](https://github.com/RenuxTeam/renuxos-src)** and found the **[RenuxTeam](https://github.com/RenuxTeam)** organization.
+---
 
-I also love to **innovate** and explore everything related to the **tech world**, from low-level systems to high-level tools and futuristic technologies.
+I'm a Brazilian developer and science enthusiast. As an AuDHD dev, I'm deeply passionate about **understanding systems at their core** 🔍 and **optimizing everything for max performance** ⚡. This drive led me to create **[RenuxOS](https://github.com/RenuxTeam/renuxos-src)** and found the **[RenuxTeam](https://github.com/RenuxTeam)** org.
 
-I develop software using **smart pointers**, always aiming for **safe, reliable, and efficient** solutions. 😎
+I also love to **innovate** and explore everything in the **tech world**, from **low-level systems** to **futuristic tools**. 🚀
 
-I also love to **fork** projects, fixing bugs, improving performance, and adding cool new features.  
-I believe that improving existing software is just as important as creating something from scratch! 🔧🚀
+I build software with **smart pointers**, always aiming for **safe, reliable & efficient** solutions. 😎
 
-My main focus is on operating system development, low-level performance, and creating tools for the Linux ecosystem.
+I also love to **fork** projects 🔧, fix bugs 🐛, boost performance ⚙️, and add fresh features ✨.  
+Improving existing software is just as epic as building from scratch!
+
+**Main focus:** OS development, low-level performance, and tooling for the Linux ecosystem.
 
 ---
 
 ### 🛠️ Skills & Tools
-
 
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=x.org&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -38,13 +46,15 @@ My main focus is on operating system development, low-level performance, and cre
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-3C3C3C?style=for-the-badge&logo=gnubash&logoColor=green)
-<img src="https://img.shields.io/badge/BSD-E52727?style=for-the-badge&logo=freebsd&logoColor=white" alt="BSD Family" title="FreeBSD, OpenBSD, NetBSD" />
+![BSD](https://img.shields.io/badge/BSD-E52727?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ### ⭐ My Flagship Project
 
-- **[RenuxOS](https://github.com/RenuxTeam/RenuxOS)**: A general-purpose operating system focused on performance, minimalism, and user experience. It's the main project maintained by the **[RenuxTeam](https://github.com/RenuxTeam)**.
+- **[RenuxOS](https://github.com/RenuxTeam/RenuxOS)**: A performance‑focused, minimalist general‑purpose OS. Maintained by **[RenuxTeam](https://github.com/RenuxTeam)**.
 
 ---
 
@@ -52,12 +62,12 @@ My main focus is on operating system development, low-level performance, and cre
 
 | Project | Description |
 |---|---|
-| **[wineturbo](https://github.com/Renan2010/wineturbo)** | A script to compile and optimize Wine, aimed at achieving maximum performance in games and applications. |
-| **[RL-ENGINE](https://github.com/Renan2010/RL-ENGINE)** | A fork of the *FNF: Psych Engine* game engine with my own optimizations, enhancements, and features. |
-| **[Funkin-Linux](https://github.com/Renan2010/Funkin-Linux)** | An unofficial port of the game *Friday Night Funkin'* for Linux systems, ensuring better compatibility. |
-| **[LUP](https://github.com/Renan2010/LUP)** | A tool to create universal ports for applications on Linux and BSD-based operating systems. |
-| **[RLSnake](https://github.com/Renan2010/RLSnake)** | An implementation of the classic Snake game, developed in C++ with the SFML library. |
-| **[Arch Silver OS](https://github.com/Renan2010/archsilver)** | A general-purpose OS based on Arch Linux (an exploratory project). |
+| **[wineturbo](https://github.com/Renan2010/wineturbo)** | Script to compile & optimize Wine for peak perf. |
+| **[RL-ENGINE](https://github.com/Renan2010/RL-ENGINE)** | Fork of *FNF: Psych Engine* with my own optimizations. |
+| **[Funkin-Linux](https://github.com/Renan2010/Funkin-Linux)** | Unofficial *Friday Night Funkin'* port for Linux. |
+| **[LUP](https://github.com/Renan2010/LUP)** | Universal port builder for Linux & BSD apps. |
+| **[RLSnake](https://github.com/Renan2010/RLSnake)** | Classic Snake game in C++ & SFML. |
+| **[Arch Silver OS](https://github.com/Renan2010/archsilver)** | Arch‑based general‑purpose OS (exploratory). |
 
 ---
 
@@ -65,11 +75,16 @@ My main focus is on operating system development, low-level performance, and cre
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Renan2010&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="Renan Lucas's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan2010&theme=dark&layout=compact" alt="Renan Lucas's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan2010&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
+### 🚀 Let's Collaborate!
+
+🚀 Wanna build something together or just chat about OS internals, space tech & code?  
+Hit me up via email or open an issue — I'll respond asap! 😉
+
 <p align="center">
-  Thanks for visiting! Feel free to explore my repositories and contribute.
+  Thanks for stopping by! Feel free to explore my repos and contribute. 💛
 </p>
