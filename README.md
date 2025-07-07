@@ -5,7 +5,7 @@
   <a href="mailto:renanlucad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-I'm a Brazilian developer and science enthusiast. As an AuDHD developer, I'm deeply passionate about understanding systems at their core and optimizing everything for maximum performance. This passion led me to create **[RenuxOS](https://github.com/RenuxTeam/RenuxOS)** and found the **[RenuxTeam](https://github.com/RenuxTeam)** organization.
+I'm a Brazilian developer and science enthusiast. As an AuDHD developer, I'm deeply passionate about understanding systems at their core and optimizing everything for maximum performance. This passion led me to create **[RenuxOS](https://github.com/RenuxTeam/renuxos_src)** and found the **[RenuxTeam](https://github.com/RenuxTeam)** organization.
 
 I also love to **innovate** and explore everything related to the **tech world**, from low-level systems to high-level tools and futuristic technologies.
 
