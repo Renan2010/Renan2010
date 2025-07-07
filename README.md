@@ -9,6 +9,8 @@ I'm a Brazilian developer and science enthusiast. As an AuDHD developer, I'm dee
 
 I also love to **innovate** and explore everything related to the **tech world**, from low-level systems to high-level tools and futuristic technologies.
 
+I develop software using **smart pointers**, always aiming for **safe, reliable, and efficient** solutions. 😎
+
 ---
 
 ### 🛠️ Skills & Tools
