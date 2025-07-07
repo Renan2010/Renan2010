@@ -28,6 +28,7 @@ My main focus is on operating system development, low-level performance, and cre
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-3C3C3C?style=for-the-badge&logo=gnubash&logoColor=green)
 <img src="https://img.shields.io/badge/BSD-E52727?style=for-the-badge&logo=freebsd&logoColor=white" alt="BSD Family" title="FreeBSD, OpenBSD, NetBSD" />
